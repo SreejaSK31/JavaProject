@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author skurup
+ *
+ */
+module CoreJavaProject {
+}
